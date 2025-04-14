@@ -21,7 +21,7 @@
 ## Pengenalan
 Supervised learning adalah paradigma dalam pembelajaran mesin yang menggunakan data berlabel untuk melatih algoritma matematis. Tujuannya adalah agar algoritma mempelajari hubungan antara input (fitur) dengan output (target) sehingga dapat secara akurat memprediksi output untuk data input yang belum terlihat.
 
-Klasifikasi merupakan subset dari supervised learning, yang mana tugasnya adalah mengelompokkan atau mengkategorikan data ke dalam kelas yang ditetapkan.
+Klasifikasi merupakan subset dari supervised learning, yang mana tugasnya adalah mengkategorikan data ke dalam kelas yang ditetapkan.
 
 <img src="./assets/classification-machine-learning.jpg" alt="clustering" width="fit-content" height="fit-content">
 
